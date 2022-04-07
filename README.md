@@ -9,4 +9,4 @@ To begin this project I will work on the User Experience for Coordinators and bu
 Designing a UI that is is the most imperative aspect of this project as coordinators/providers are the for most users of this program.
 Making a system that they find easy to use to input data that is fast and reactive will always be the priority.
 
-Once a user interface is mocked up a stack will be decided upon to decide to promote the utmost efficiency of the user end and data capture/access.
+Once a user interface is mocked up a stack will be decided upon to decide to promote the utmost efficiency of the user end and data capture/access. Most likely I will be using a stack of React/Django/PostgresQL to begin with as Python and Javascript are in my current knowledge base. But this is subject to change depending on the challenges that arise in the process of developing this.
